@@ -1,0 +1,28 @@
+.title-and-publish-date-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 24px;
+  color: #12022f;
+}
+
+.publish-date {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #9aa5b1;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 19px;
+  color: #9aa5b1;
+}
+
+.hr {
+  border-width: 0.5px;
+}
